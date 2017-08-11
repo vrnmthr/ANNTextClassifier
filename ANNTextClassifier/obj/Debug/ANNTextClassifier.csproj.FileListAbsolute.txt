@@ -1,0 +1,5 @@
+C:\Users\Varun Mathur\Source\Repos\ANNTextClassifier\ANNTextClassifier\bin\Debug\ANNTextClassifier.dll
+C:\Users\Varun Mathur\Source\Repos\ANNTextClassifier\ANNTextClassifier\bin\Debug\ANNTextClassifier.pdb
+C:\Users\Varun Mathur\Source\Repos\ANNTextClassifier\ANNTextClassifier\obj\Debug\ANNTextClassifier.csprojResolveAssemblyReference.cache
+C:\Users\Varun Mathur\Source\Repos\ANNTextClassifier\ANNTextClassifier\obj\Debug\ANNTextClassifier.dll
+C:\Users\Varun Mathur\Source\Repos\ANNTextClassifier\ANNTextClassifier\obj\Debug\ANNTextClassifier.pdb
