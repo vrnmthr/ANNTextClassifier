@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ANNTextClassifier
 {
-    public class Class1
+    public class Rename
     {
     }
 }
